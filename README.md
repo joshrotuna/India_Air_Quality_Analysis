@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 
 ## Launch
 
-Download the Python file *India_Air_Quality_CA01_Joshua_Rotuna.ipynb* and open in an IDE. Download the necessary data and import it.
+Download the Python file *India_Air_Quality_CA01_Joshua_Rotuna.ipynb* and open in an IDE. Download the necessary data [here](https://www.kaggle.com/shrutibhargava94/india-air-quality-data) and import it.
 
 ## Authors
 [Joshua Rotuna - GitHub](https://github.com/joshrotuna/lmuML)
