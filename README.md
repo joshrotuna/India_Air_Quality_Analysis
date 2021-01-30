@@ -2,6 +2,7 @@
 
 # Exploratory Data Analysis - India Air Pollution
 
+![enter image description here](https://www.google.com/url?sa=i&url=https://qz.com/india/1932643/delhis-air-quality-worst-in-the-world-after-diwali-2020/&psig=AOvVaw2oEkZfryxZ1IPPRc97-cdK&ust=1612127949942000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiu9uLKxO4CFQAAAAAdAAAAABAT)
 
 ## Project Description
 
