@@ -1,7 +1,8 @@
+**
+
 # Exploratory Data Analysis - India Air Pollution
 
-https://bl.thgim.com/news/national/rx7www/article29980744.ece/alternates/WIDE_615/Delhi-air
-
+![enter image description here](https://bl.thgim.com/news/national/rx7www/article29980744.ece/alternates/WIDE_615/Delhi-air)
 ## Project Description
 
 This project examines air pollution levels in India from 1990 - 2005.  It contains the levels of Sulphur Dioxide (SO2), Nitrogen Dioxide (NO2), Respirable Suspended Particulate Matter (RSPM), and Suspended Particulate Matter (SPM). This project displays the trends in pollution levels over the time period, the median pollution levels by state, and  focuses on trends in Andrah Pradesh.
