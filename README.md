@@ -1,5 +1,3 @@
-**
-
 # Exploratory Data Analysis - India Air Pollution
 
 ![enter image description here](https://bl.thgim.com/news/national/rx7www/article29980744.ece/alternates/WIDE_615/Delhi-air)
