@@ -17,13 +17,15 @@ This project examines air pollution levels in India from 1990 - 2005.  It contai
 * from sklearn.impute import SimpleImputer
 * import matplotlib.pyplot as plt
 
-## Installation
+## Launch
 
 Download the Python file *India_Air_Quality_CA01_Joshua_Rotuna.ipynb* and open in an IDE. Download the necessary data [here](https://www.kaggle.com/shrutibhargava94/india-air-quality-data) and import it.
 
 ## Authors
 [Joshua Rotuna - GitHub](https://github.com/joshrotuna/lmuML)
 
+## License
+This project is provided under the [MIT](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt) License requirements.
 
 ## Sources
 * This project template was provided by Arin Brahma, Loyola Marymount University
